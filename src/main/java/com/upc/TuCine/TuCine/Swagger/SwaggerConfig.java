@@ -1,7 +1,9 @@
 package com.upc.TuCine.TuCine.Swagger;
 
+/*
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.models.OpenAPI;
+import io.swagger.v3.oas.models.servers.Server;
 import org.springframework.context.annotation.Configuration;
 
 import java.util.List;
@@ -13,3 +15,4 @@ public class SwaggerConfig {
         return new OpenAPI();
     }
 }
+*/
