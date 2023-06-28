@@ -1,6 +1,6 @@
 package com.upc.TuCine.TuCine.config;
 
-/*
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.cors.CorsConfiguration;
@@ -26,4 +26,4 @@ public class CorsConfig implements WebMvcConfigurer {
         return new CorsFilter(source);
     }
 }
-*/
+
