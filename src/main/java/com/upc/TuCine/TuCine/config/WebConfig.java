@@ -1,3 +1,4 @@
+/*
 package com.upc.TuCine.TuCine.config;
 
 import org.springframework.context.annotation.Configuration;
@@ -24,3 +25,4 @@ public class WebConfig implements WebMvcConfigurer {
         redirectViewControllerRegistration.setStatusCode(HttpStatusCode.valueOf(302));
     }
 }
+*/
